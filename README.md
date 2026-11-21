@@ -1,7 +1,7 @@
 # Hi, I am Kunal Pal!
 
 ## About Me
-- BCA (Hons.) AI & Data Science student at **K.R. Mangalam University**, Gurugram (Batch 2026-2029)
+- BCA (Hons.) AI & Data Science student at **K.R. Mangalam University**, Gurugram (Batch 2026-2030)
 - Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
 - Interested in: AI-ML / Data Science
 
