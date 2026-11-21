@@ -3,7 +3,7 @@
 ## About Me
 - BCA (Hons.) AI & Data Science student at **K.R. Mangalam University**, Gurugram (Batch 2026-2029)
 - Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
-- Interested in: [AI-ML / Data Science]
+- Interested in: AI-ML / Data Science
 
 ## Technical Skills
 
